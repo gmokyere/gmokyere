@@ -129,12 +129,8 @@ Now I don't know how to quit !
 
 <br></br>
 
-<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
-
-
-
 <a href="https://www.linkedin.com/in/darkoemm">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Connect ☝️☝️☝️
 
