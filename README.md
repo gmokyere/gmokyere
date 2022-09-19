@@ -2,18 +2,19 @@
 
 <p align="center">
 
- <img src="###" alt="Hi, I'm Emma 👋 I'm a Data Scientist at a Fortune 100 Company and Learning Enthusiast 👨🏾‍💻">
+ <img src="###" alt="Hi there👋 I'm a Data Scientist at a Fortune 100 Company and Learning Enthusiast 👨🏾‍💻">
 </p>
 
 <br/>
 
-<h1 align="center" > <b> Whoami ?  </b> </h1>
-<!-- 
-<h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
-<h4 align="center"> Aspiring Data Scientist and Pentester :face_in_clouds: </h4>
+<h1 align="center" > <b> Get to know me </b> </h1>
+
+<h4 align="center"> I’m Emma <I> aka </I> Billy (nickname) </h4>
+<h4 align="center"> Data Scientist ⚽️👨🏾‍💻🙏🏾 </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Knowledge is Open-Source" :muscle: </i></b> </h4>
 <br></br>
 
+<!-- 
 -->
 
 
@@ -27,31 +28,13 @@ Now I don't know how to quit !
 
 <hr> </hr>
 
-<p align="center">
-  <b> <u> Stuffs Going On... </u> </b>
-  <br/>
-  <br/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras">
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-   
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-   
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
 
-<br/>
-
-#### 🌟 Visitors over time
-![](https://komarev.com/ghpvc/?username=greyhatguy007&label=PROFILE+VIEWS&style=plastic)
-
-<br/>
-
-<b> Languages 🥸 </b>
+#### 🌟 <b> Languages </b>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![R](https://www.r-project.org/Rlogo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -91,13 +74,7 @@ Now I don't know how to quit !
 
 <br/>
 
-<b> Current Rig 🔥 </b>
 
-![lap](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![proc](https://img.shields.io/badge/Intel%20Core_i5_9th%20Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![grap](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br/>
 
 <p align="center">
 <br></br>
@@ -107,19 +84,19 @@ Now I don't know how to quit !
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmokyere&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gmokyere&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark"> </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmokyere&theme=dark"> </a>
 </p>
 <br></br>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gmokyere&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -128,14 +105,14 @@ Now I don't know how to quit !
     
  <h3> Leetcode Stats  </h3>
     
- ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/gmokyere?theme=dark,unicorn)
     
 
 <br></br>
 
 
 <!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gmokyere&theme=dark)](https://git.io/streak-stats)
 
 <br></br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -157,13 +134,9 @@ Now I don't know how to quit !
 
 
 
-<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/darkoemm">
 
-#### mail: mritvikprasad@gmail.com
-
-## Reach Me ☝️☝️☝️
+## Connect ☝️☝️☝️
 
 
-![](https://hit.yhype.me/github/profile?user_id=77543865)
 
